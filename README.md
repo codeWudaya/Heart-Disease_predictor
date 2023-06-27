@@ -4,4 +4,6 @@ it's a ML based heart disease predictor that is deployed in Web in streamlit and
 ##
 use command streamlit run app.py after downloading the codes
 ##
+![Alt Text](images/1.png)
+##
 you can directly use it by the GUI
